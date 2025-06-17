@@ -132,17 +132,18 @@ body {
 }
 
 .hero-content {
-    display: grid;
-    grid-template-columns: 2fr 1fr;
-    gap: 50px;
+    display: flex;
+    flex-direction: column;
     align-items: center;
-}
+    justify-content: center;
 
-.hero-text {
-    text-align: center;
+    /* optionnel si tu gardes un max-width */
     max-width: 800px;
-
+    margin: 0 auto;
+    gap: 30px;
 }
+
+
 
 .hero-text h1 {
     font-size: 3rem;
