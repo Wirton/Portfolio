@@ -124,14 +124,11 @@ body {
 
 /* Section Accueil */
 .accueil {
-    background: linear-gradient(135deg, #e79b54 0%, #b75d39 100%);
+    background: linear-gradient(135deg, #e79b54 0%, #d26b42 100%);
     color: white;
     min-height: 100vh;
     display: flex;
     align-items: center;
-    justify-content: center; /* centrage horizontal */
-    min-height: 100vh; /* occupe toute la hauteur de la fenêtre */
-    padding: 0 20px;
 }
 
 .hero-content {
