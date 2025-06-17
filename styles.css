@@ -129,8 +129,6 @@ body {
     min-height: 100vh;
     display: flex;
     align-items: center;
-    display: flex;
-    align-items: center; /* centrage vertical */
     justify-content: center; /* centrage horizontal */
     min-height: 100vh; /* occupe toute la hauteur de la fenêtre */
     padding: 0 20px;
