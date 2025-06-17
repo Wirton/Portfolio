@@ -124,7 +124,7 @@ body {
 
 /* Section Accueil */
 .accueil {
-    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    background: linear-gradient(135deg, #ff4800 0%, #ef7f15 100%);
     color: white;
     min-height: 100vh;
     display: flex;
